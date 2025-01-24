@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Markplowwright
-- 👀 I’m interested in Software Development and Network Security 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on any project relatign to C#, Java, Python, C, or Visual Basic
-- 📫 How to reach me email: mplowright20@student.methodist.edu
+- 👀 I’m interested in Software Development and Cyber Security such as Pentest and Monitoring  
+- 🌱 I’m currently learning aspects of Red Team and SQLI along with XSS 
+- 💞️ I’m looking to collaborate on any project relatign to C#, Java, Python, C++, HTML 
+- 📫 How to reach me email: mlpplowright@gmail.com
 
 <!---
 Markplowwright/Markplowwright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
