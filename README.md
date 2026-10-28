@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Markplowwright
-- 👀 I’m interested in Software Development and Cyber Security such as Pentest and Monitoring  
-- 🌱 I’m currently learning aspects of Red Team and SQLI along with XSS 
-- 💞️ I’m looking to collaborate on any project relatign to C#, Java, Python, C++, HTML 
-- 📫 How to reach me email: mlpplowright@gmail.com
+# Hi, I'm Mark 👋
 
-<!---
-Markplowwright/Markplowwright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT support and systems person based in New York City. I spent years as the on-site tech for a network of charter schools, and I'm now building out my Windows Server, Microsoft 365, and scripting skills in public.
+
+## What I'm working on now
+
+- **[Windows Server Home Lab](https://github.com/Markplowwright/windows-server-home-lab)**: an Active Directory lab running in Azure (`plowlab.local`), with runbooks and screenshots. Covers domain setup, users, and Group Policy exercises (password policy, drive mapping, lockout, USB restrictions), and is expanding to domain-joined Windows 11 clients.
+- **[Admin Practice Lab](https://github.com/Markplowwright/admin-practice-lab)**: a browser-based Microsoft 365 / Entra / Intune admin simulator, so beginners can practice admin tasks without touching a real tenant.
+- **GradAisle**: a web app (API backend, Vite frontend, database) I'm building to help students compare programs and tuition.
+
+## Other projects
+
+- **[endpoint-health-audit](https://github.com/Markplowwright/endpoint-health-audit)** and **[disk-usage-monitor](https://github.com/Markplowwright/disk-usage-monitor)**: small IT support scripts for checking device health.
+- **[network-traffic-analysis-wireshark](https://github.com/Markplowwright/network-traffic-analysis-wireshark)**: packet capture and analysis write-up.
+- **[Portfolio site](https://markplowwright.github.io)**: projects and background in one place.
+
+## Background
+
+- On-site IT for 6+ charter schools: Chromebook carts, MacBooks, print servers (PaperCut), network closet troubleshooting, and a steady daily ticket queue
+- Device management with Jamf and Google Admin
+- Day to day in macOS, Windows, Office 365, and Zoom
+
+## Currently learning
+
+Active Directory, DNS, and Group Policy · Entra ID and Intune · PowerShell and scripting for IT automation · Networking fundamentals
+
+## Get in touch
+
+📫 mlpplowright@gmail.com
