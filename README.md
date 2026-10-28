@@ -1,6 +1,6 @@
 # Hi, I'm Mark 👋
 
-IT support and systems person based in New York City. I spent years as the on-site tech for a network of charter schools, and I'm now building out my Windows Server, Microsoft 365, and scripting skills in public.
+Field Systems Engineer at Fairdinkum, based in New York City. Before that I was the on-site tech for a network of charter schools, and I'm building out my Windows Server, Microsoft 365, and scripting skills in public.
 
 ## What I'm working on now
 
