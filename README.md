@@ -16,11 +16,14 @@ Field Systems Engineer at Fairdinkum, based in New York City.
 ## Background
 
 - Device management with Jamf and Google Admin
-- Day to day in macOS, Windows, Office 365, and Zoom
+- Day to day in macOS, Windows, and Office 365
+- Cybersecurity
 
 ## Currently learning
 
-Active Directory, DNS, and Group Policy · Entra ID and Intune · PowerShell and scripting for IT automation · Networking fundamentals
+Active Directory, DNS, and Group Policy · Entra ID and Intune · PowerShell and scripting for IT automation · Networking fundamentals · Cybersecurity
+
+More projects coming soon.
 
 ## Get in touch
 
