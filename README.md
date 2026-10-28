@@ -1,7 +1,6 @@
 # Hi, I'm Mark 👋
 
-Field Systems Engineer at Fairdinkum, based in New York City. Before that I was the on-site tech for a network of charter schools, and I'm building out my Windows Server, Microsoft 365, and scripting skills in public.
-
+Field Systems Engineer at Fairdinkum, based in New York City.
 ## What I'm working on now
 
 - **[Windows Server Home Lab](https://github.com/Markplowwright/windows-server-home-lab)**: an Active Directory lab running in Azure (`plowlab.local`), with runbooks and screenshots. Covers domain setup, users, and Group Policy exercises (password policy, drive mapping, lockout, USB restrictions), and is expanding to domain-joined Windows 11 clients.
@@ -16,7 +15,6 @@ Field Systems Engineer at Fairdinkum, based in New York City. Before that I was 
 
 ## Background
 
-- On-site IT for 6+ charter schools: Chromebook carts, MacBooks, print servers (PaperCut), network closet troubleshooting, and a steady daily ticket queue
 - Device management with Jamf and Google Admin
 - Day to day in macOS, Windows, Office 365, and Zoom
 
