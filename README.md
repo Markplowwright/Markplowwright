@@ -1,6 +1,6 @@
 # Hi, I'm Mark 👋
 
-Field Systems Engineer at Fairdinkum, based in New York City.
+Based in New York City.
 ## What I'm working on now
 
 - **[Windows Server Home Lab](https://github.com/Markplowwright/windows-server-home-lab)**: an Active Directory lab running in Azure (`plowlab.local`), with runbooks and screenshots. Covers domain setup, users, and Group Policy exercises (password policy, drive mapping, lockout, USB restrictions), and is expanding to domain-joined Windows 11 clients.
